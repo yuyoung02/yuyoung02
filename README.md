@@ -1,4 +1,4 @@
-[![Portfolio](https://img.shields.io/badge/My%20Portfolio-Visit%20Website-0EA5E9?style=for-the-badge&logo=googlechrome&logoColor=white)](https://st-itm-2025-1.github.io/hoa02-yuyoung924/)
+[![Portfolio](https://img.shields.io/badge/My%20Portfolio-Visit%20Website-14B8A6?style=for-the-badge&logo=googlechrome&logoColor=white)](https://st-itm-2025-1.github.io/hoa02-yuyoung924/)
 
 ## Education
 
