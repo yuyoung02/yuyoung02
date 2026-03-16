@@ -1,3 +1,5 @@
+[![Portfolio](https://img.shields.io/badge/My%20Portfolio-Visit%20Website-111111?style=for-the-badge&logo=googlechrome&logoColor=white)]([https://your-website-link.com](https://st-itm-2025-1.github.io/hoa02-yuyoung924/))
+
 ## Education
 
 - 🇰🇷 서울과학기술대학교 ITM 전공 (2023.02 ~ present)
