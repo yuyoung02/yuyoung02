@@ -4,6 +4,7 @@
 
 - 🇰🇷 서울과학기술대학교 ITM 전공 (2023.02 ~ present)
 - 🇬🇧 Information Technology Management in Northumbria University (복수학위) (2023.02 ~ present)
+- 🇺🇸 AICOSS-UNLV International AI Research Program, University of Nevada, Las Vegas (UNLV) (Winter Short-Term Exchange Project) (2026.01.04 ~ 2026.01.31)
 
 ## Tech Stack
 
